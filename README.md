@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kennethlee
 - 👀 I’m interested in Coding, photography, Gaming and GYM!
-- 🌱 I’m currently learning JavaScript and anything related to JavaScript 
+- 🌱 I’m currently learning JavaScript 
 
 
 <!---
