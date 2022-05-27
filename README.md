@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kennethlee
 - 👀 I’m interested in Coding, photography, Gaming and GYM!
-- 🌱 I’m currently learning JavaScript 
+- 🌱 Proficient-  JavaScript, Node/Express, Git, GitHub, Three.js, HTML5, CSS3, React,
+          Redux, PostgreSQL, and Sequelize.
 
 
 <!---
