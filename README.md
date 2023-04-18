@@ -44,7 +44,23 @@ currently_learning: ["Web3, Solidy and React Native"]
 hobbies: ["Gaming", "Basketball", "Snowboarding", "Art", "Comedy"]
 ```
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethlee0502)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<table>
+  <tr>
+    <td style="border: none;">
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=kennethlee0502&show_icons=true&locale=en" alt="kennethlee0502" />
+    </td>
+    <td style="border: none;">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kennethlee0502&show_icons=true&locale=en&layout=compact" alt="kennethlee0502" />
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 
 ## 📈  My GitHub History!
 ![snake gif](https://github.com/kennethlee0502/kennethlee0502/blob/output/github-contribution-grid-snake.svg)
@@ -57,6 +73,10 @@ hobbies: ["Gaming", "Basketball", "Snowboarding", "Art", "Comedy"]
 [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
+
+
+
+
 
 <!---
 kennethlee0502/kennethlee0502 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
