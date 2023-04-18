@@ -33,7 +33,7 @@ proficient:
   ]
   
 currently_learning: ["Web3, Solidy and React Native"]
-2023 Goals: ["Stay Healthy and Stay Humble"]
+2023_Goals: ["Stay Healthy and Stay Humble"]
 hobbies: ["Gaming", "Basketball", "Snowboarding", "Art", "Comedy"]
 ```
 
