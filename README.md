@@ -1,10 +1,41 @@
 - 👋 Hi, I’m @kennethlee
 -<a href="https://kenneth.cat/">Hi I'm Kenneth</a>
-- 👀 I’m interested in Coding, photography, Gaming and GYM!
-- 🌱 Proficient-  JavaScript, Node/Express, Git, GitHub, Three.js, HTML5, CSS3, React,
-          Redux, PostgreSQL, and Sequelize.
-          
 
+## 👨🏻‍💻  A Little Bit About Me and My Interests
+
+ ```JS
+name: Kenneth Lee
+located_in: New York City, New York
+current_job: Full Stack Software Engineer
+education:
+  [
+    "Fullstack Academy Immersive Program",
+    "CUNY College of Staten Island",
+  ]
+company: Singularity Future Technology Inc
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+    "Game Development",
+  ]
+proficient:
+  [
+    "JavaScript", 
+    "Node/Express", 
+    "Three.Js", 
+    "HTML5", 
+    "CSS3", 
+    "React"
+  ]
+  
+currently_learning: ["Web3, Solidy and React Native"]
+2023 Goals: ["Stay Healthy and Stay Humble"]
+hobbies: ["Gaming", "Basketball", "Snowboarding", "Art", "Comedy"]
+```
 
 [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
@@ -19,39 +50,7 @@
 
 ![snake gif](https://github.com/kennethlee0502/kennethlee0502/blob/output/github-contribution-grid-snake.svg)
 
-```Ruby
-name: Piyush Malhotra
-located_in: Montreal, Quebec
-current_job: Full Stack Developer
-education:
-  [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
-  ]
-company: Soulber
 
-fields_of_interests:
-  [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
-  ]
-technical_background:
-  [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
-  ]
-  
-currently_learning: ["Docker, Kubernetes and React Native"]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
-```
 
 <!---
 kennethlee0502/kennethlee0502 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
