@@ -15,7 +15,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethlee0502)](https://github.com/anuraghazra/github-readme-stats)
 
-![snake gif](https://github.com/kennethlee0502/kennethlee0502/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/kennethlee0502/kennethlee0502/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 kennethlee0502/kennethlee0502 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
