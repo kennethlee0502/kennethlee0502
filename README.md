@@ -3,8 +3,7 @@
 - 🌱 Proficient-  JavaScript, Node/Express, Git, GitHub, Three.js, HTML5, CSS3, React,
           Redux, PostgreSQL, and Sequelize.
           
-          https://forthebadge.com/images/badges/uses-html.svg
-
+[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethlee0502)](https://github.com/anuraghazra/github-readme-stats)
 
 
