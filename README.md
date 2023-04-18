@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @kennethlee
+-<a href="https://www.w3schools.com">Visit W3Schools</a>
 - 👀 I’m interested in Coding, photography, Gaming and GYM!
 - 🌱 Proficient-  JavaScript, Node/Express, Git, GitHub, Three.js, HTML5, CSS3, React,
           Redux, PostgreSQL, and Sequelize.
