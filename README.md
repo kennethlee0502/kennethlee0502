@@ -2,9 +2,7 @@
  <h1 align="center"><a href="https://kenneth.cat/"><img src="https://fontmeme.com/temporary/5fbae561420f158e699dd2b88a0b9121.png" alt=""></a></h1>
 
 
-<h4 align="center">I'm a passionate Fullstack Engineer from NYC 🗽</h4>
-
-
+<h3 align="center">I'm a passionate Fullstack Engineer from NYC 🗽</h3>
 
 
 
