@@ -1,5 +1,12 @@
-- 👋 Hi, I’m @kennethlee
--<a href="https://kenneth.cat/">Hi I'm Kenneth</a>
+
+ <h1 align="center"><a href="https://kenneth.cat/"><img src="https://fontmeme.com/temporary/5fbae561420f158e699dd2b88a0b9121.png" alt=""></a></h1>
+
+
+<h4 align="center">I'm a passionate Fullstack Engineer from NYC 🗽</h4>
+
+
+
+
 
 ## 👨🏻‍💻  A Little Bit About Me and My Interests
 
@@ -12,7 +19,7 @@ education:
     "Fullstack Academy Immersive Program",
     "CUNY College of Staten Island",
   ]
-company: Singularity Future Technology Inc
+company: Singularity Future Technology Ltd. (SGLY)
 
 fields_of_interests:
   [
@@ -37,6 +44,11 @@ currently_learning: ["Web3, Solidy and React Native"]
 hobbies: ["Gaming", "Basketball", "Snowboarding", "Art", "Comedy"]
 ```
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethlee0502)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📈  My GitHub History!
+![snake gif](https://github.com/kennethlee0502/kennethlee0502/blob/output/github-contribution-grid-snake.svg)
+
 [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
@@ -45,15 +57,6 @@ hobbies: ["Gaming", "Basketball", "Snowboarding", "Art", "Comedy"]
 [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethlee0502)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📈  My GitHub History!
-![snake gif](https://github.com/kennethlee0502/kennethlee0502/blob/output/github-contribution-grid-snake.svg)
-
-
 
 <!---
 kennethlee0502/kennethlee0502 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
