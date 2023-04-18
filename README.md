@@ -46,8 +46,11 @@ hobbies: ["Gaming", "Basketball", "Snowboarding", "Art", "Comedy"]
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
 
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethlee0502)](https://github.com/anuraghazra/github-readme-stats)
 
+## 📈  My GitHub History!
 ![snake gif](https://github.com/kennethlee0502/kennethlee0502/blob/output/github-contribution-grid-snake.svg)
 
 
