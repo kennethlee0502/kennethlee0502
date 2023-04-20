@@ -2,7 +2,7 @@
  <h1 align="center"><a href="https://kenneth.cat/"><img src="https://fontmeme.com/temporary/5fbae561420f158e699dd2b88a0b9121.png" alt=""></a></h1>
 
 
-<h3 align="center">I'm a passionate Fullstack Engineer from NYC 🗽</h3>
+<h3 align="center">Fullstack Engineer from NYC 🗽</h3>
 
 # 💫 About Me:
 Having spent a few years helping clients achieve their dream of owning a home, I've decided to pursue my passion for software development and start building dreams with code instead. Making the transition into software development has been the best decision I've ever made! I take immense satisfaction in creating new things and relish the challenge of constantly learning something new. I'm open to new technologies and I currently specialize as a full-stack developer with a focus on Javascript. I'm eager to explore new opportunities and look forward to discussing how my skills and passion can contribute to your team.
