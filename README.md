@@ -1,5 +1,5 @@
 
- <h1 align="center"><a href="https://kenneth.cat/"><img src="https://fontmeme.com/temporary/5fbae561420f158e699dd2b88a0b9121.png" alt=""></a></h1>
+ <h1 align="center"><a href="https://kenneth.cat/"><img src="https://github.com/kennethlee0502/kennethlee0502/blob/main/6de09270f55b41b38d0287b4eb5d9b00.png?raw=true" alt=""></a></h1>
 
 
 <h3 align="center">Fullstack Engineer from NYC 🗽</h3>
