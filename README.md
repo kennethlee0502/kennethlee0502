@@ -43,7 +43,54 @@ Having spent a few years helping clients achieve their dream of owning a home, I
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 
+<h2 align="center">💡Projects Spotlight💡</h2>
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Trip Advisor</h3>
+        <br>
+  <a href="https://github.com/kennethlee0502/Trip-advisor" target="_blank">
+    <img src="https://github.com/kennethlee0502/Trip-advisor/raw/main/public/Website%20Laptop%20Mockup%20Instagram%20Post%20(3).png?raw=true" height="450px" width="600px" >
+  </a>  
+       <p align="center">
+  <a href="https://github.com/kennethlee0502/Trip-advisor" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>  
+  <a href="https://kenneth-travel-advisor.herokuapp.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+  </a>
+      </p>
+        <p><strong>Tools used: React, MUI, JavaSctipt, NPM, Heroku.</strong> - This project is a comprehensive guide to local restaurants, hotels, and attractions. Users can search for nearby venues using their location or a specific address, and the results will include ratings, price ranges, rankings, and contact information. It aims to provide reliable and up-to-date information, empowering users to make informed decisions about where to dine, stay, or visit.
 
+
+</p>
+    </td>
+<td width="50%" valign="top">
+      <h3 align="center">TikTik</h3>
+        <br>
+  <a href="https://github.com/kennethlee0502/tiktik" target="_blank">
+    <img src="https://github.com/kennethlee0502/tiktik/raw/main/public/Website%20Laptop%20Mockup%20Instagram%20Post%20(1).png?raw=true" height="450px" width="600px" >
+  </a>  
+
+  <p align="center">
+  <a href="https://github.com/kennethlee0502/tiktik" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>  
+  <a href="https://tiktik-rho-seven.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+  </a>
+      </p>
+        <p><strong>Tools used: TypeScript, React, Next.Js, Vercel.</strong> - The TikTok Clone Application is packed with features such as Google authentication, video uploading, publishing, sharing, commenting, and liking. It also offers advanced filtering options for browsing videos by categories and conducting detailed searches. With personalized profiles, suggested accounts, and a responsive design, users can enjoy an optimized viewing experience on any device.
+
+
+
+
+</p>
+    </td>
+  </tr>
+  
+  
+</table>
 
 
 ## 👨🏻‍💻  A Little Bit About Me and My Interests
