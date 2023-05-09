@@ -50,7 +50,7 @@ Having spent a few years helping clients achieve their dream of owning a home, I
       <h3 align="center">Trip Advisor</h3>
         <br>
   <a href="https://github.com/kennethlee0502/Trip-advisor" target="_blank">
-    <img src="https://github.com/kennethlee0502/Trip-advisor/raw/main/public/Website%20Laptop%20Mockup%20Instagram%20Post%20(3).png?raw=true" height="450px" width="600px" >
+    <img src="https://github.com/kennethlee0502/Trip-advisor/raw/main/public/Website%20Laptop%20Mockup%20Instagram%20Post%20(3).png?raw=true" height="350px" width="600px" >
   </a>  
        <p align="center">
   <a href="https://github.com/kennethlee0502/Trip-advisor" target="_blank">
@@ -69,7 +69,7 @@ Having spent a few years helping clients achieve their dream of owning a home, I
       <h3 align="center">TikTik</h3>
         <br>
   <a href="https://github.com/kennethlee0502/tiktik" target="_blank">
-    <img src="https://github.com/kennethlee0502/tiktik/raw/main/public/Website%20Laptop%20Mockup%20Instagram%20Post%20(1).png?raw=true" height="450px" width="600px" >
+    <img src="https://github.com/kennethlee0502/tiktik/raw/main/public/Website%20Laptop%20Mockup%20Instagram%20Post%20(1).png?raw=true" height="350px" width="600px" >
   </a>  
 
   <p align="center">
