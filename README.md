@@ -7,17 +7,6 @@
 # 💫 About Me:
 Having spent a few years helping clients achieve their dream of owning a home, I've decided to pursue my passion for software development and start building dreams with code instead. Making the transition into software development has been the best decision I've ever made! I take immense satisfaction in creating new things and relish the challenge of constantly learning something new. I'm open to new technologies and I currently specialize as a full-stack developer with a focus on Javascript. I'm eager to explore new opportunities and look forward to discussing how my skills and passion can contribute to your team.
 
-## 🥷 Fun Fact:
-
-[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
-
 # 💻 Tech Stack:
 ### Core Tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
