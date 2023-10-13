@@ -45,7 +45,7 @@ Having spent a few years helping clients achieve their dream of owning a home, I
   <a href="https://github.com/kennethlee0502/Trip-advisor" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>  
-  <a href="https://kenneth-travel-advisor.herokuapp.com/" target="_blank">
+  <a href="https://trip-advisor-sandy.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
