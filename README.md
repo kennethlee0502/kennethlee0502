@@ -93,7 +93,7 @@ education:
     "Fullstack Academy Immersive Program",
     "CUNY College of Staten Island",
   ]
-company: Singularity Future Technology Ltd. (SGLY)
+company: Bioverse
 
 fields_of_interests:
   [
@@ -113,7 +113,7 @@ proficient:
   ]
   
 currently_learning: ["Web3, Solidy and React Native"]
-2023_Goals: ["Stay Healthy and Stay Humble"]
+2024_Goals: ["Stay Healthy and Stay Humble"]
 hobbies: ["Gaming", "Basketball", "Snowboarding", "Art", "Comedy"]
 ```
 
